@@ -1,0 +1,98 @@
+.top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(240, 235, 235);
+    padding: 20px;
+    
+}
+.cnts{
+    
+    display: flex;
+    justify-content:center;
+    list-style: none;
+   column-gap: 100px;
+   margin-right: 100px;
+  
+    
+}
+.img{
+    
+    width: 100%;
+    height: 50px;
+    
+}
+
+.ig{
+    width: 100%;
+    height:300px;
+}
+.brnd{
+    width: 100%;
+    height: 200px;
+    padding: 20px;
+    border-radius: 15%;
+}
+.ic{
+    color: rgb(120, 198, 237);
+}
+i{
+    color: rgb(72, 174, 225);
+
+}
+.bi{
+    background-color: rgb(240, 235, 235)!important;
+}
+.w{
+    color: white;
+}
+.para{
+    text-align: justify;
+}
+.br{
+    border-radius: 5px;
+}
+.fi{
+    font-style: italic;
+    font-size: larger;
+}
+.bg{
+    background-color:black;
+    color:rgb(120, 198, 237);
+}
+.fic{
+color: white;
+font-size:x-large;
+}
+.b{
+    background-image: url(../image/landscape\ shoe.jpg);
+}
+.cen{
+    display: flex;
+    justify-content: space-between;
+}
+.cen1{
+    display: flex;
+    justify-content:center;
+}
+.sh{
+    background-image: url(../image/);
+}
+.cb{
+    background-color: black !important;
+    border-color: rgb(120, 198, 237) !important;
+    border-radius: 10px;
+}
+.pi{
+    color: rgb(155, 32, 32);
+}
+.an{
+    color: blue;
+    text-decoration: none;
+}
+.bgc{
+    background-color:rgb(120, 198, 237) ;
+}
+.fw{
+    height: 100px;
+}

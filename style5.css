@@ -1,0 +1,143 @@
+.top{
+    display: flex;
+    justify-content: center;
+    background-color: #D9DFC6;
+    
+}
+.cnts{
+    background-color: #D9DFC6;
+    display: flex;
+    justify-content: center;
+    font-size:medium;
+    color: #5f6b9e;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style: none;
+    column-gap: 80px;
+    /* margin-right: 50px; */
+    padding-top: 10px;
+}
+.left{
+    display: flex;
+    justify-content:right;
+    column-gap: 10px;
+   
+}
+.b{
+    background-color: #D9DFC6;
+    padding: 15px;
+}
+.vi1{
+    background-image:url(../image/round.v.mp4);
+}
+.ff{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:  #5f6b9e;
+}
+.f{
+    color: #818cbd;
+    
+}
+.s1{
+    font-size:medium;
+}
+.br{
+    border-radius: 10px;
+    width: 100%;
+    height: 450px;
+}
+.brd{
+    border-radius: 10px;
+}
+.c{
+    background-color:  #FFFDF0 !important;
+    border-color:#FFF2C2 !important;
+}
+.p{
+    text-align: justify;
+}
+.himage{
+    height: 450px;
+    border-radius:10px ;
+}
+.himage:hover{
+    transform:scale(1.1);
+}
+.img{
+    width: 100%;
+    height: 100px;
+}
+.img:hover{
+    transform: scale(1.1);
+}
+.img1{
+    padding: 30px;
+    width: 100%;
+    height: 225px;
+}
+.img1:hover{
+    transform:scale(1.1);
+    
+}
+.img2{
+    width: 100%;
+    height: 200px;
+    border-radius: 10px;
+}
+.img2:hover{
+    transform: scale(1.1);
+}
+.cp{
+    margin-left: 10px;
+}
+.fr{
+    list-style: none;
+}
+.fd{
+    font-size:x-large;
+}
+.bot{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.cmp{
+    text-decoration: none;
+}
+.pp{
+    font-size:larger;
+}
+.name-1{
+    position: relative;
+}
+.name-2{
+    position: absolute;
+    top: 80%;
+    left: 33%;
+    
+}
+.lsd{
+    position: relative;
+}
+.lsd1{
+    color: white;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 5%;
+    right: 60%;
+    background-color: rgb(109, 148, 77);   
+    left: 0.5%; 
+
+}
+.out{
+    position: relative;
+}
+.out1{
+    position: absolute;
+    background-color: #5f6b9e;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 1%;
+    border-radius: 5px;
+    background-image: url(../image/);
+}

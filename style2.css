@@ -1,0 +1,103 @@
+.top{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    color: white;
+    background-color: #39bda7;
+}
+.navs{
+    display: flex;
+    justify-content: space-between;
+    color:#1EA896;
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.img{
+    width:100px;
+    padding:20px;
+
+}
+.rv{
+    display: flex;
+    justify-content:left;
+    padding: 30px;
+    column-gap: 50px;
+}
+.cnts{
+    display: flex;
+    justify-content: center;
+    column-gap: 50px;
+    list-style: none;
+    font-size:larger;
+} 
+.para{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+   
+}
+.h{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style :'oblique';
+    color: #1EA896;
+    
+}
+.img3{
+    width: 100%;
+    height: 300px;
+}
+.foot{
+    background-color: #39bda7;
+}
+.f{
+    color: white;
+}
+.word{
+    color: #EF3E36;
+}
+
+.navs1{
+    background-image: url("./Old\ movie\ film.jpg") ;
+    background-size:auto;
+    padding: 30px;
+    color: white;
+    text-align: center;
+}
+.off{
+
+    background-color: black !important;
+    color: white;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    
+}
+.seeAll{
+    display: flex;
+    justify-content: space-between;
+}
+.b{
+    color:#EF3E36;
+    font-family: serif;
+    font-size:large;
+}
+.y{
+    color:rgb(204, 204, 11);
+    font-family: serif;
+    font-size:large;
+}
+.l{
+   
+    color: #EF3E36;
+    font-size: small;
+}
+.sign{
+    display: flex;
+    justify-content: right;
+}
+.c{
+    background-color: bisque !important ;
+   
+}

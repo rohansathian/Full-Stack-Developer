@@ -1,0 +1,116 @@
+.B{
+    background-color: aliceblue;
+    
+    font-size:medium;
+    font-family: serif;
+    
+}
+.top{
+    display: flex;
+    justify-content:space-between;
+    padding: 20px;
+    margin-left: 50px;
+    
+}
+.cnts{
+    display: flex;
+    justify-content:center;
+    margin-right: 50px;
+    column-gap: 120px;
+    list-style: none;
+}
+.l1{
+    padding-top: 10px;
+    margin-bottom: 10px;
+    background-color:rgba(228, 235, 240, 0.832);
+}
+.img{
+    width: 100%;
+    height: 200px;
+   
+}
+.mob{
+    display: flex;
+    justify-content: center;
+}
+.pl{
+    margin-right: 30px;
+}
+.f{
+    font-size:x-large;
+}
+.b{
+    font-size:larger;
+}
+.i{
+    align-items: center;
+
+    background-image: url(./Top\ view\ of\ a\ banquet\ with\ food\ stock\ photography.jpg);
+}
+.f1{
+    color: white;
+    font-size:xx-large;
+}
+.w{
+    color: white;
+}
+.sch{
+font-size:x-large;
+width: 800px;
+}
+.si{
+    font-size: 200px;
+    color: white;
+}
+.c{
+    color: rgb(238, 173, 53);
+}
+.cc{
+    color: rgb(0, 0, 0) !important;
+    background-color:   rgb(255, 153, 0) !important;
+}
+.t{
+    text-align: justify;
+}
+.foot{
+    display: flex;
+    justify-content:space-between;
+    list-style:none;
+}
+.f{
+    font-size: large;
+}
+.ul{
+    list-style: none;
+}
+.fi{
+    background-color: rgb(218, 231, 242);
+
+}
+.t{
+    margin-left: 50px;
+}
+.tt{
+    margin-left: 120px   ;
+}
+.cf{
+    color: rgb(212, 143, 15);
+}
+.sl{
+    color:green;
+}
+.brd{
+    border-radius: 50%;
+}
+.brd1{
+    border-radius: 5%;
+}
+.btn1{
+    background-color: EDF4C2;
+}
+.o{
+    color: orange;
+}
+.sz{
+    padding: 10px;
+}
